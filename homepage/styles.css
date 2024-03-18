@@ -1,0 +1,48 @@
+.essay {
+    font-family: "Protest Guerrilla", sans-serif;
+    background-color: tomato
+}
+.map {
+    font-family: "Protest Guerrilla", sans-serif;
+    background-color: tomato
+}
+.index {
+    font-family: "Sixtyfour", sans-serif;
+    background-color: tomato
+}
+.pictures {
+    font-family: "Protest Guerrilla", sans-serif;
+    background-color: tomato
+}
+body{
+    background-color: tomato;
+}
+
+.bg {
+    bac
+    background-image: url("YURT.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.nyhead {
+    font-size: 3.5em;
+    margin-top: 5%;
+}
+
+.white-shadow {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+.allign-middle {
+    margin-top: 15%;
+}
+
+p{
+    text-indent: 30px;
+    }
+}
